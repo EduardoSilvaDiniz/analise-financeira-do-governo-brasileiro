@@ -1,7 +1,6 @@
 # Analise Financeira do Governo Brasileiro (2023-2026)
 
 Projeto focado na análise de gastos e receitas do governo federal brasileiro, utilizando dados públicos para identificar tendências e impactos socioeconômicos.
-Perguntas de Pesquisa
 
 ## Plano de Análise de Dados
 1. **Educação**
